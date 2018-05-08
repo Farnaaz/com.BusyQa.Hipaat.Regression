@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [Hipaat]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.BusyQa.Hipaat.Utilities.ExtentReportListener"/>
+  </listeners>
+  <test name="Regression tests(failed)">
+    <classes>
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_006">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="TC_006_purposeofuse"/>
+          <include name="getScreenShot"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_006 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_017">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="getScreenShot"/>
+          <include name="TC_017_auditReport"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_017 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_020">
+        <methods>
+          <include name="getScreenShot"/>
+          <include name="tearDown"/>
+          <include name="TC_020_verifyHelp_Security"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_020 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_007">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="TC_007_conflictpolicy"/>
+          <include name="getScreenShot"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_007 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_011">
+        <methods>
+          <include name="getScreenShot"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="TC_011_verifyScheduling"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_011 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_016">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="TC_016_ActivePoliciesReport"/>
+          <include name="getScreenShot"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_016 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_008">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="TC_008_verifySearch"/>
+          <include name="getScreenShot"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_008 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_018">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="getScreenShot"/>
+          <include name="TC_018_verifybase53Error"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_018 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_022">
+        <methods>
+          <include name="getScreenShot"/>
+          <include name="setUp"/>
+          <include name="TC_022_verifyHelp_Reportpage"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_022 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_001">
+        <methods>
+          <include name="setUp"/>
+          <include name="TC_001_policycreation"/>
+          <include name="tearDown"/>
+          <include name="getScreenShot"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_001 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_021">
+        <methods>
+          <include name="getScreenShot"/>
+          <include name="TC_021_verifyHelp_Patientpage"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_021 -->
+      <class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_009">
+        <methods>
+          <include name="getScreenShot"/>
+          <include name="setUp"/>
+          <include name="TC_009_verifyacknowldg"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.BusyQa.Hipaat.TestCases.BeHO_TC_009 -->
+    </classes>
+  </test> <!-- Regression tests(failed) -->
+</suite> <!-- Failed suite [Hipaat] -->
