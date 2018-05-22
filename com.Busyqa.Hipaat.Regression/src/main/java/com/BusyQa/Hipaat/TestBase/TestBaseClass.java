@@ -60,21 +60,21 @@ public class TestBaseClass {
 	//for browser initialization 
 	public static void browserinitialization() {
 
+					
+			String browserName = pro.getProperty("browser");
 
-		String browserName = pro.getProperty("browser");
+			if(browserName.equals("chrome")) {
+				System.setProperty("webdriver.chrome.driver", ".\\drivers\\chromedriver.exe");
 
-		if(browserName.equals("chrome")) {
-			System.setProperty("webdriver.chrome.driver", ".\\drivers\\chromedriver.exe");
-						
-			driver = new ChromeDriver();
-			log.info("*****Initializing chrome browser*****");
+				driver = new ChromeDriver();
+				log.info("*****Initializing chrome browser*****");
 
-		}else if (browserName.equals("Firefox")) {
-			System.setProperty("webdriver.gecko.driver", ".\\drivers\\geckodriver.exe");	
-			driver = new FirefoxDriver();
-			log.info("*****Initializing firefox browser*****");
-		}
-
+			}else if (browserName.equals("Firefox")) {
+				System.setProperty("webdriver.gecko.driver", ".\\drivers\\geckodriver.exe");	
+				driver = new FirefoxDriver();
+				log.info("*****Initializing firefox browser*****");
+			}
+		
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
@@ -102,5 +102,5 @@ public class TestBaseClass {
 
 	}
 
-	
+
 }

@@ -5,10 +5,7 @@ package com.BusyQa.Hipaat.TestCases;
 
 
 import org.openqa.selenium.By;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 
 import com.BusyQa.Hipaat.PageObjects.Loginpage;
 import com.BusyQa.Hipaat.PageObjects.Menupage;
@@ -21,6 +18,7 @@ import com.BusyQa.Hipaat.TestBase.TestBaseClass;
 /**
  * @author Farnaaz
  * 
+ * Creating a conflict policy (Allow & Deny) and capturing the error message.
  * This test case extends TestBaseClass which defines properties and browserinitialization()
  *    - browserinitialization() will launch browser, clearcookies, add dynamic wait & pass url 
  *    - login details has been stored in properties file to achieve abstraction  
@@ -45,7 +43,7 @@ public class BeHO_TC_007 extends TestBaseClass {
 		log.info("*****parent class constructor called and properties file initiated*****");
 	}
 
-	@BeforeTest
+	@BeforeMethod
 	public void setUp() {
 
 
@@ -81,7 +79,7 @@ public class BeHO_TC_007 extends TestBaseClass {
 			log.info("*****entering patient policy details *****");
 			ppdetail = new PatientPolicyDetailpage();
 			ppdetail.executefirst_Yes();
-			ppdetail.startdate("2018-06-04");
+			ppdetail.startdate();
 			ppdetail.validUntil_revoked();
 			ppdetail.policyTitle("This is a demo policy");
 			ppdetail.requestedby_Patient();
@@ -144,7 +142,7 @@ public class BeHO_TC_007 extends TestBaseClass {
 			log.info("*****entering patient policy details *****");
 			ppdetail = new PatientPolicyDetailpage();
 			ppdetail.executefirst_Yes();
-			ppdetail.startdate("2018-06-04");
+			ppdetail.startdate();
 			ppdetail.validUntil_revoked();
 			ppdetail.policyTitle("This is an allow policy");
 			ppdetail.requestedby_Patient();

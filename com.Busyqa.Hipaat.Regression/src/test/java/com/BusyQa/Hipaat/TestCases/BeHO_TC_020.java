@@ -7,10 +7,7 @@ import java.util.Iterator;
 import java.util.Set;
 
 import org.openqa.selenium.By;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 
 import com.BusyQa.Hipaat.PageObjects.Loginpage;
 import com.BusyQa.Hipaat.PageObjects.Menupage;
@@ -39,7 +36,7 @@ public class BeHO_TC_020 extends TestBaseClass {
 		super();
 	}
 
-	@BeforeTest
+	@BeforeMethod
 	public void setUp() {
 
 

@@ -7,10 +7,7 @@ import java.util.Iterator;
 import java.util.Set;
 
 import org.openqa.selenium.By;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 
 import com.BusyQa.Hipaat.PageObjects.Loginpage;
 import com.BusyQa.Hipaat.PageObjects.Menupage;
@@ -21,8 +18,7 @@ import com.BusyQa.Hipaat.TestBase.TestBaseClass;
  * @author Farnaaz
  * 
  * This test case is testing the help in various pages - REPORT
- * This test case is testing the help in various pages - SECURITY
- *The test case extends TestBaseClass which defines properties and browserinitialization()
+ *  *The test case extends TestBaseClass which defines properties and browserinitialization()
  *    - browserinitialization() will launch browser, clearcookies, add dynamic wait & pass url 
  *    - login details has been stored in properties file to achieve abstraction  
  * 
@@ -40,7 +36,7 @@ public class BeHO_TC_022 extends TestBaseClass {
 		super();
 	}
 
-	@BeforeTest
+	@BeforeMethod
 	public void setUp() {
 
 

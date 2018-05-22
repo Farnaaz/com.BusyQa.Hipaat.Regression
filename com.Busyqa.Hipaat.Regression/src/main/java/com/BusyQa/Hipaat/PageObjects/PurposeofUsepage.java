@@ -21,7 +21,7 @@ public class PurposeofUsepage extends TestBaseClass {
 	WebElement code;
 
 
-	@FindBy(xpath = "//td[@class='normal']/input[1]")
+	@FindBy(xpath = "//td[@class='normal'][1]/input")
 	@CacheLookup
 	WebElement description;
 
@@ -29,6 +29,9 @@ public class PurposeofUsepage extends TestBaseClass {
 	@CacheLookup
 	WebElement savebtn;
 
+	
+	
+	
 	@FindBy(id = "result:j_id_4q:10:j_id_55")
 	@CacheLookup
 	WebElement deletebtn;

@@ -2247,3 +2247,1585 @@
 2018-05-07 21:20:16,054 - TestBaseClass -INFO - *****entered purpose of use maintenance page*****
 2018-05-07 21:20:17,168 - TestBaseClass -INFO - *****value added in purpose of use table *****
 2018-05-07 21:20:21,160 - TestBaseClass -INFO - ***** BeHO_TC_006 Test case completed, Browser closed*****
+2018-05-08 22:11:44,716 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:11:44,779 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:11:44,788 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:11:44,796 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:11:44,829 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:11:44,844 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:11:44,887 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:11:44,895 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:11:48,567 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:11:52,746 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:11:54,869 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:11:57,283 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:12:05,695 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:12:08,338 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:12:11,205 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:12:15,173 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:12:16,879 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:12:19,316 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:12:24,002 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:12:25,983 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:12:28,420 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:12:32,038 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:12:34,086 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:12:36,280 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:12:39,752 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:12:41,670 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:12:43,971 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:12:48,603 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:12:50,376 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:12:56,010 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:13:00,135 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:13:01,951 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:13:04,401 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:13:08,053 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:13:10,389 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:13:12,760 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:13:16,235 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:13:17,771 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:13:20,018 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:13:23,393 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:13:25,493 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:13:27,754 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:13:31,412 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:13:33,396 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:13:34,625 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-08 22:13:37,674 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-08 22:13:39,323 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-08 22:13:47,589 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-08 22:13:49,211 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-08 22:13:52,571 - TestBaseClass -INFO - *****comment saved *****
+2018-05-08 22:13:53,623 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-08 22:13:54,293 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-08 22:13:54,313 - TestBaseClass -INFO - ***** BeHO_TC_006 Test case completed, Browser closed*****
+2018-05-08 22:13:54,319 - TestBaseClass -INFO - ***** BeHO_TC_007 Test case completed, Browser closed*****
+2018-05-08 22:13:54,330 - TestBaseClass -INFO - ***** BeHO_TC_008 Test case completed, Browser closed*****
+2018-05-08 22:13:54,339 - TestBaseClass -INFO - ***** BeHO_TC_009 Test case completed, Browser closed*****
+2018-05-08 22:13:54,348 - TestBaseClass -INFO - ***** BeHO_TC_011 Test case completed, Browser closed*****
+2018-05-08 22:13:54,359 - TestBaseClass -INFO - ***** BeHO_TC_016 Test case completed, Browser closed*****
+2018-05-08 22:13:54,377 - TestBaseClass -INFO - ***** BeHO_TC_017 Test case completed, Browser closed*****
+2018-05-08 22:13:54,383 - TestBaseClass -INFO - ***** BeHO_TC_018 Test case completed, Browser closed*****
+2018-05-08 22:13:54,389 - TestBaseClass -INFO - ***** BeHO_TC_020 Test case completed, Browser closed*****
+2018-05-08 22:13:54,395 - TestBaseClass -INFO - ***** BeHO_TC_021 Test case completed, Browser closed*****
+2018-05-08 22:13:54,400 - TestBaseClass -INFO - ***** BeHO_TC_022 Test case completed, Browser closed*****
+2018-05-08 22:37:08,193 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:37:08,232 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:37:08,240 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:37:08,250 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:37:08,264 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:37:08,280 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:37:08,305 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:37:08,315 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:37:11,960 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:37:15,397 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:37:17,526 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:37:19,863 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:37:22,991 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:37:24,843 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:37:27,108 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:37:30,691 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:37:32,436 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:37:35,192 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:37:38,489 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:37:40,084 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:37:42,549 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:37:47,461 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:37:50,712 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:37:53,343 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:37:56,741 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:37:58,580 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:38:01,331 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:38:04,447 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:38:06,180 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:38:08,479 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:38:11,802 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:38:13,529 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:38:15,886 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:38:19,581 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:38:24,016 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:38:26,922 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:38:30,488 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:38:32,387 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:38:34,828 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:38:39,228 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:38:40,913 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:38:43,361 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:38:49,301 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:38:51,383 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:38:52,621 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-08 22:38:55,029 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-08 22:38:56,514 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-08 22:39:05,185 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-08 22:39:06,521 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-08 22:39:08,315 - TestBaseClass -INFO - *****comment saved *****
+2018-05-08 22:39:09,226 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-08 22:39:10,011 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-08 22:39:10,032 - TestBaseClass -INFO - ***** BeHO_TC_006 Test case completed, Browser closed*****
+2018-05-08 22:39:10,037 - TestBaseClass -INFO - ***** BeHO_TC_007 Test case completed, Browser closed*****
+2018-05-08 22:39:10,046 - TestBaseClass -INFO - ***** BeHO_TC_008 Test case completed, Browser closed*****
+2018-05-08 22:39:10,052 - TestBaseClass -INFO - ***** BeHO_TC_009 Test case completed, Browser closed*****
+2018-05-08 22:39:10,059 - TestBaseClass -INFO - ***** BeHO_TC_011 Test case completed, Browser closed*****
+2018-05-08 22:39:10,064 - TestBaseClass -INFO - ***** BeHO_TC_016 Test case completed, Browser closed*****
+2018-05-08 22:39:10,072 - TestBaseClass -INFO - ***** BeHO_TC_017 Test case completed, Browser closed*****
+2018-05-08 22:39:10,081 - TestBaseClass -INFO - ***** BeHO_TC_018 Test case completed, Browser closed*****
+2018-05-08 22:39:10,089 - TestBaseClass -INFO - ***** BeHO_TC_020 Test case completed, Browser closed*****
+2018-05-08 22:39:10,097 - TestBaseClass -INFO - ***** BeHO_TC_021 Test case completed, Browser closed*****
+2018-05-08 22:39:10,104 - TestBaseClass -INFO - ***** BeHO_TC_022 Test case completed, Browser closed*****
+2018-05-08 22:41:56,296 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:41:56,335 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:41:56,349 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:41:56,361 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:41:56,372 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:41:56,382 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:41:56,404 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:41:56,416 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:41:59,988 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:42:03,623 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:42:05,241 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:42:07,516 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:42:10,675 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:42:12,383 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:42:14,701 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:42:18,365 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:42:19,936 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:42:22,255 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:42:25,997 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:42:27,634 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:42:29,873 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:42:33,300 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:42:34,864 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:42:37,111 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:42:40,025 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:42:41,743 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:42:44,034 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:42:47,159 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:42:48,874 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:42:51,140 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:42:54,404 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:42:56,264 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:42:58,460 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:43:01,532 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:43:04,693 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:43:10,334 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:43:15,167 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:43:17,006 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:43:19,686 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:43:25,579 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:43:27,362 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:43:29,904 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:43:33,712 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:43:35,566 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:43:36,682 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-08 22:43:39,402 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-08 22:43:40,911 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-08 22:43:48,781 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-08 22:43:50,196 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-08 22:43:51,734 - TestBaseClass -INFO - *****comment saved *****
+2018-05-08 22:43:52,573 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-08 22:43:53,333 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-08 22:43:53,347 - TestBaseClass -INFO - ***** BeHO_TC_006 Test case completed, Browser closed*****
+2018-05-08 22:43:53,352 - TestBaseClass -INFO - ***** BeHO_TC_007 Test case completed, Browser closed*****
+2018-05-08 22:43:53,359 - TestBaseClass -INFO - ***** BeHO_TC_008 Test case completed, Browser closed*****
+2018-05-08 22:43:53,365 - TestBaseClass -INFO - ***** BeHO_TC_009 Test case completed, Browser closed*****
+2018-05-08 22:43:53,370 - TestBaseClass -INFO - ***** BeHO_TC_011 Test case completed, Browser closed*****
+2018-05-08 22:43:53,374 - TestBaseClass -INFO - ***** BeHO_TC_016 Test case completed, Browser closed*****
+2018-05-08 22:43:53,403 - TestBaseClass -INFO - ***** BeHO_TC_017 Test case completed, Browser closed*****
+2018-05-08 22:43:53,412 - TestBaseClass -INFO - ***** BeHO_TC_018 Test case completed, Browser closed*****
+2018-05-08 22:43:53,423 - TestBaseClass -INFO - ***** BeHO_TC_020 Test case completed, Browser closed*****
+2018-05-08 22:43:53,427 - TestBaseClass -INFO - ***** BeHO_TC_021 Test case completed, Browser closed*****
+2018-05-08 22:43:53,435 - TestBaseClass -INFO - ***** BeHO_TC_022 Test case completed, Browser closed*****
+2018-05-08 22:50:48,678 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:50:48,708 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:50:48,721 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:50:48,731 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:50:48,738 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:50:48,746 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:50:48,778 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:50:48,788 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 22:50:52,563 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:50:55,343 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:50:57,225 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:50:59,664 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:51:02,712 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:51:05,093 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:51:07,329 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:51:10,756 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:51:12,353 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:51:14,582 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:51:17,529 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:51:19,053 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:51:21,300 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:51:24,270 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:51:26,972 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:51:30,849 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:51:35,773 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:51:39,641 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:51:42,618 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:51:46,680 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:51:48,380 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:51:50,712 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:51:54,038 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:51:56,268 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:52:00,466 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:52:05,516 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:52:07,513 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:52:10,872 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:52:14,136 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:52:15,799 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:52:18,122 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:52:21,640 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:52:23,923 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:52:26,637 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 22:52:31,221 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 22:52:33,699 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 22:52:34,971 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-08 22:52:39,152 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-08 22:52:41,070 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-08 22:52:54,354 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-08 22:52:57,960 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-08 22:53:00,111 - TestBaseClass -INFO - *****comment saved *****
+2018-05-08 22:53:01,296 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-08 22:53:02,010 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-08 22:53:02,160 - TestBaseClass -INFO - ***** BeHO_TC_006 Test case completed, Browser closed*****
+2018-05-08 22:53:02,170 - TestBaseClass -INFO - ***** BeHO_TC_007 Test case completed, Browser closed*****
+2018-05-08 22:53:02,185 - TestBaseClass -INFO - ***** BeHO_TC_008 Test case completed, Browser closed*****
+2018-05-08 22:53:02,200 - TestBaseClass -INFO - ***** BeHO_TC_009 Test case completed, Browser closed*****
+2018-05-08 22:53:02,205 - TestBaseClass -INFO - ***** BeHO_TC_011 Test case completed, Browser closed*****
+2018-05-08 22:53:02,227 - TestBaseClass -INFO - ***** BeHO_TC_016 Test case completed, Browser closed*****
+2018-05-08 22:53:02,244 - TestBaseClass -INFO - ***** BeHO_TC_017 Test case completed, Browser closed*****
+2018-05-08 22:53:02,280 - TestBaseClass -INFO - ***** BeHO_TC_018 Test case completed, Browser closed*****
+2018-05-08 22:53:02,287 - TestBaseClass -INFO - ***** BeHO_TC_020 Test case completed, Browser closed*****
+2018-05-08 22:53:02,294 - TestBaseClass -INFO - ***** BeHO_TC_021 Test case completed, Browser closed*****
+2018-05-08 22:53:02,360 - TestBaseClass -INFO - ***** BeHO_TC_022 Test case completed, Browser closed*****
+2018-05-08 23:04:47,937 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:04:47,974 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:04:47,987 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:04:47,997 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:04:48,009 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:04:48,018 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:04:48,037 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:04:48,043 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:04:51,550 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:04:54,812 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:04:56,951 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:04:59,243 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:05:02,786 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:05:04,318 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:05:06,650 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:05:10,218 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:05:11,707 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:05:13,936 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:05:17,163 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:05:18,910 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:05:21,158 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:05:24,268 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:05:26,025 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:05:28,519 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:05:34,815 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:05:38,412 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:05:41,779 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:05:45,605 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:05:47,148 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:05:49,458 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:05:53,044 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:05:54,792 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:05:57,064 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:06:00,839 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:06:02,551 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:06:04,892 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:06:08,764 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:06:10,228 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:06:12,595 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:06:16,250 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:06:20,528 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:06:23,328 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:06:27,438 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:06:29,538 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:06:30,396 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-08 23:06:32,908 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-08 23:06:34,349 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-08 23:06:41,432 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-08 23:06:42,751 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-08 23:06:44,342 - TestBaseClass -INFO - *****comment saved *****
+2018-05-08 23:06:45,193 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-08 23:06:45,853 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-08 23:06:45,870 - TestBaseClass -INFO - ***** BeHO_TC_006 Test case completed, Browser closed*****
+2018-05-08 23:06:45,873 - TestBaseClass -INFO - ***** BeHO_TC_007 Test case completed, Browser closed*****
+2018-05-08 23:06:45,878 - TestBaseClass -INFO - ***** BeHO_TC_008 Test case completed, Browser closed*****
+2018-05-08 23:06:45,883 - TestBaseClass -INFO - ***** BeHO_TC_009 Test case completed, Browser closed*****
+2018-05-08 23:06:45,888 - TestBaseClass -INFO - ***** BeHO_TC_011 Test case completed, Browser closed*****
+2018-05-08 23:06:45,893 - TestBaseClass -INFO - ***** BeHO_TC_016 Test case completed, Browser closed*****
+2018-05-08 23:06:45,910 - TestBaseClass -INFO - ***** BeHO_TC_017 Test case completed, Browser closed*****
+2018-05-08 23:06:45,915 - TestBaseClass -INFO - ***** BeHO_TC_018 Test case completed, Browser closed*****
+2018-05-08 23:06:45,920 - TestBaseClass -INFO - ***** BeHO_TC_020 Test case completed, Browser closed*****
+2018-05-08 23:06:45,925 - TestBaseClass -INFO - ***** BeHO_TC_021 Test case completed, Browser closed*****
+2018-05-08 23:06:45,936 - TestBaseClass -INFO - ***** BeHO_TC_022 Test case completed, Browser closed*****
+2018-05-08 23:13:19,655 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:13:19,690 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:13:19,700 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:13:19,710 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:13:19,720 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:13:19,728 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:13:19,788 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:13:19,796 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-08 23:13:23,411 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:13:26,278 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:13:28,440 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:13:30,795 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:13:33,830 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:13:34,472 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:13:36,800 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-08 23:13:39,547 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-08 23:13:40,527 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-08 23:13:42,845 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 09:19:25,389 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 09:19:25,420 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 09:19:25,431 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 09:19:25,439 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 09:19:25,449 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 09:19:25,460 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 09:19:25,476 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 09:19:25,485 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 09:19:29,090 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 09:19:31,609 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 09:19:33,170 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 09:19:36,065 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 09:19:39,709 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 09:19:41,731 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 09:19:44,337 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 09:19:48,247 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 09:19:51,019 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 09:19:53,637 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 09:19:57,915 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 09:19:59,985 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 09:20:02,403 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 09:20:05,203 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 09:20:06,441 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 09:20:08,844 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 09:20:12,346 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 09:20:13,806 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 09:20:16,094 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 09:20:19,175 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 09:20:21,098 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 09:20:23,511 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 09:20:26,854 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 09:20:28,596 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 09:20:30,986 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 09:20:37,535 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 09:20:43,609 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 09:20:47,443 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 09:20:51,427 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 09:20:53,080 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 09:20:55,461 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 09:20:58,812 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 09:21:00,884 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 09:21:03,276 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 09:21:06,858 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 09:21:08,546 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 09:21:09,542 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-09 09:21:12,095 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-09 09:21:13,599 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-09 09:21:21,151 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 09:21:22,351 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-09 09:21:23,915 - TestBaseClass -INFO - *****comment saved *****
+2018-05-09 09:21:24,858 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-09 09:21:25,586 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-09 09:21:25,611 - TestBaseClass -INFO - ***** BeHO_TC_006 Test case completed, Browser closed*****
+2018-05-09 09:21:25,621 - TestBaseClass -INFO - ***** BeHO_TC_007 Test case completed, Browser closed*****
+2018-05-09 09:21:25,625 - TestBaseClass -INFO - ***** BeHO_TC_008 Test case completed, Browser closed*****
+2018-05-09 09:21:25,634 - TestBaseClass -INFO - ***** BeHO_TC_009 Test case completed, Browser closed*****
+2018-05-09 09:21:25,640 - TestBaseClass -INFO - ***** BeHO_TC_011 Test case completed, Browser closed*****
+2018-05-09 09:21:25,646 - TestBaseClass -INFO - ***** BeHO_TC_016 Test case completed, Browser closed*****
+2018-05-09 09:21:25,651 - TestBaseClass -INFO - ***** BeHO_TC_017 Test case completed, Browser closed*****
+2018-05-09 09:21:25,665 - TestBaseClass -INFO - ***** BeHO_TC_018 Test case completed, Browser closed*****
+2018-05-09 09:21:25,686 - TestBaseClass -INFO - ***** BeHO_TC_020 Test case completed, Browser closed*****
+2018-05-09 09:21:25,705 - TestBaseClass -INFO - ***** BeHO_TC_021 Test case completed, Browser closed*****
+2018-05-09 09:21:25,711 - TestBaseClass -INFO - ***** BeHO_TC_022 Test case completed, Browser closed*****
+2018-05-09 14:05:06,628 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 14:05:10,196 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 14:05:13,710 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 14:05:15,613 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 14:05:16,419 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-09 14:05:18,013 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-09 14:05:19,968 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 14:05:30,651 - TestBaseClass -INFO - ***** BeHO_TC_019 Test case completed, Browser closed*****
+2018-05-09 14:08:39,276 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 14:08:42,545 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 14:08:45,764 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 14:08:47,666 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 14:08:48,525 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-09 14:08:50,121 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-09 14:08:51,840 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 14:41:10,195 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 14:41:13,653 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 14:41:16,861 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 14:41:18,758 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 14:41:19,544 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-09 14:41:21,387 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-09 14:41:23,026 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 14:44:06,150 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 14:44:09,361 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 14:44:13,115 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 14:44:15,706 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 14:44:17,015 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-09 14:44:18,904 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-09 14:44:20,451 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 14:44:22,107 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 14:50:20,000 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 14:50:23,508 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 14:50:27,010 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 14:50:29,200 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 14:50:30,533 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-09 14:50:33,488 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-09 14:50:36,059 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 14:50:39,250 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 14:51:54,130 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 14:51:57,484 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 14:52:00,891 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 14:52:02,631 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 14:52:03,386 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-09 14:52:04,889 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-09 14:52:06,650 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 14:52:08,530 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 15:05:05,429 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 15:05:09,230 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 15:05:13,076 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 15:05:15,033 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 15:05:15,977 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-09 15:05:17,649 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-09 15:05:19,524 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 15:05:21,682 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 15:09:00,935 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 15:09:05,385 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 15:09:10,240 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 15:09:13,357 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 15:09:15,220 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-09 15:09:17,622 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-09 15:09:21,839 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 15:09:26,146 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 15:09:30,381 - TestBaseClass -INFO - *****organization has been added*****
+2018-05-09 15:10:21,574 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 15:10:24,992 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 15:10:35,288 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 15:10:37,339 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 15:10:38,256 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-09 15:10:40,041 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-09 15:10:41,950 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 15:10:43,873 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 15:10:46,347 - TestBaseClass -INFO - *****organization has been added*****
+2018-05-09 15:12:57,814 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 15:13:01,173 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 15:13:04,236 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 15:13:05,745 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 15:13:06,471 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-09 15:13:08,466 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-09 15:13:09,996 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 15:13:11,694 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 15:13:13,996 - TestBaseClass -INFO - *****organization has been added*****
+2018-05-09 15:15:12,004 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 15:15:15,341 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 15:15:18,505 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 15:15:21,294 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 15:15:31,887 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-09 15:15:34,321 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-09 15:15:36,037 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 15:15:38,051 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 15:15:40,372 - TestBaseClass -INFO - *****organization has been added*****
+2018-05-09 15:16:22,086 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-09 15:16:25,419 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-09 15:16:29,010 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-09 15:16:30,576 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-09 15:16:31,241 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-09 15:16:32,696 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-09 15:16:34,289 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 15:16:35,943 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-09 15:16:40,131 - TestBaseClass -INFO - *****organization has been added*****
+2018-05-10 13:04:08,934 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 13:04:12,280 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 13:04:15,686 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 13:04:17,228 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 13:21:56,071 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 13:21:59,315 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 13:22:01,671 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 13:22:02,973 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 13:25:44,344 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 13:25:47,616 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 13:25:50,036 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 13:25:51,434 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 13:46:46,520 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 13:46:49,784 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 13:46:53,096 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 13:46:54,468 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 14:01:11,145 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 14:01:14,324 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 14:01:16,792 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 14:01:18,196 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 14:02:39,388 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 14:02:42,709 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 14:02:49,158 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 14:02:50,567 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 14:05:35,156 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 14:05:38,386 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 14:05:40,759 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 14:05:42,320 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 14:07:40,479 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 14:07:43,689 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 14:07:45,991 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 14:07:47,414 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 14:11:53,068 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 14:11:56,232 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 14:11:58,656 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 14:12:00,235 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 14:13:35,318 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 14:13:38,535 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 14:13:41,003 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 14:13:42,187 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 14:14:32,522 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 14:14:35,759 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 14:14:38,205 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 14:14:39,625 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 15:26:15,517 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 15:26:18,821 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 15:26:22,298 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 15:26:23,782 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 15:35:04,464 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 15:35:07,695 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 15:35:10,957 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 15:35:12,612 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 15:41:42,265 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 15:41:45,493 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 15:41:49,243 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 15:41:50,658 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 15:47:58,624 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 15:48:01,837 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 15:48:07,668 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 15:48:09,628 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 15:58:31,926 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 15:58:35,191 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 15:58:38,513 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 15:58:40,276 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 16:00:58,711 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 16:01:02,024 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 16:01:05,255 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 16:01:06,928 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 16:33:28,998 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 16:33:32,330 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 16:33:35,400 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 16:33:37,208 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 16:35:00,079 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 16:35:03,326 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 16:35:06,409 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 16:35:08,057 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 16:35:16,942 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-10 16:35:18,368 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-10 16:35:19,527 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-10 16:35:20,836 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-10 16:35:22,810 - TestBaseClass -INFO - *****organization has been added*****
+2018-05-10 16:41:40,215 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 16:41:43,492 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 16:41:46,409 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 16:41:47,994 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 16:41:57,357 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-10 16:41:58,854 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-10 16:41:59,997 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-10 16:42:01,306 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-10 16:42:03,347 - TestBaseClass -INFO - *****organization has been added*****
+2018-05-10 16:44:06,851 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 16:44:10,061 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 16:44:13,082 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 16:44:14,749 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 16:44:24,108 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-10 16:44:25,577 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-10 16:44:27,003 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-10 16:44:28,356 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-10 16:44:31,282 - TestBaseClass -INFO - *****organization has been added*****
+2018-05-10 20:19:52,492 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 20:19:55,945 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 20:19:58,139 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 20:19:59,637 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 20:20:10,317 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-10 20:20:12,080 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-10 20:20:13,340 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-10 20:20:14,809 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-10 20:20:17,287 - TestBaseClass -INFO - *****organization has been added*****
+2018-05-10 20:39:34,242 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 20:39:37,504 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 20:39:40,690 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 20:39:42,562 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 20:44:29,871 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 20:44:33,257 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 20:44:37,000 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 20:44:39,185 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 20:50:28,372 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 20:50:31,799 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 20:50:35,452 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 20:50:37,521 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-10 20:59:58,111 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-10 21:00:01,579 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-10 21:00:05,107 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-10 21:00:06,964 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-14 13:02:03,655 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-14 13:02:07,159 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-14 13:02:25,375 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-14 13:02:34,526 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-14 13:02:40,354 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-14 13:02:43,876 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-14 13:07:02,761 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-14 13:07:06,152 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-14 13:07:11,161 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-14 13:07:13,268 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-14 13:07:21,599 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-14 13:07:36,114 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-14 13:08:08,842 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-14 13:08:09,877 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-14 13:08:11,303 - TestBaseClass -INFO - *****comment saved *****
+2018-05-14 13:08:12,228 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-14 13:17:02,709 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-14 13:17:06,124 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-14 13:17:18,076 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-14 13:17:31,412 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-14 13:17:32,355 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-14 13:17:34,433 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-14 13:17:41,913 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-14 13:17:42,832 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-14 13:17:44,207 - TestBaseClass -INFO - *****comment saved *****
+2018-05-14 13:17:45,325 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-14 13:26:25,762 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-14 13:26:29,148 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-14 13:26:33,077 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-14 13:26:35,159 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-14 13:26:35,985 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-14 13:26:38,495 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-14 13:26:46,352 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-14 13:26:48,287 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-14 13:26:50,336 - TestBaseClass -INFO - *****comment saved *****
+2018-05-14 13:30:30,116 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-14 13:30:33,561 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-14 13:30:46,889 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-14 13:30:56,276 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-14 13:30:58,977 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-14 13:31:01,644 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-14 13:31:11,503 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-14 13:31:13,477 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-14 13:31:15,170 - TestBaseClass -INFO - *****comment saved *****
+2018-05-14 13:31:16,498 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-14 13:33:41,644 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-14 13:33:44,877 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-14 13:33:47,913 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-14 13:33:49,695 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-14 13:33:50,761 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-14 13:33:53,045 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-14 13:34:26,624 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-14 13:34:27,585 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-14 13:34:28,958 - TestBaseClass -INFO - *****comment saved *****
+2018-05-14 13:34:29,809 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-14 13:40:31,407 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-14 13:40:35,034 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-14 13:40:37,968 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-14 13:40:39,706 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-14 13:40:40,469 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-14 13:40:42,577 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-14 13:40:50,000 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-14 13:40:50,949 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-14 13:40:52,236 - TestBaseClass -INFO - *****comment saved *****
+2018-05-14 13:40:53,077 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-14 13:54:45,043 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-14 13:54:48,368 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-14 13:54:51,467 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-14 13:54:52,894 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-14 13:54:53,572 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-14 13:54:55,374 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-14 13:55:03,077 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-14 13:55:03,937 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-14 13:55:05,227 - TestBaseClass -INFO - *****comment saved *****
+2018-05-14 13:55:05,954 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-14 14:41:00,815 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-14 14:41:04,139 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-14 14:42:45,649 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-14 14:42:48,899 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-14 14:42:52,715 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-14 14:42:54,260 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-14 14:42:54,921 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-14 14:42:56,779 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-14 14:43:05,828 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-14 14:43:06,782 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-14 14:43:10,559 - TestBaseClass -INFO - *****comment saved *****
+2018-05-14 14:43:11,278 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-14 14:58:54,898 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-14 14:58:58,110 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-14 14:59:01,400 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-14 14:59:03,049 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-14 14:59:12,205 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-14 14:59:13,938 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-14 14:59:20,011 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-14 14:59:20,843 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-14 14:59:22,049 - TestBaseClass -INFO - *****comment saved *****
+2018-05-14 14:59:22,711 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-14 15:13:02,702 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-14 15:13:06,027 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-14 15:13:22,489 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-14 15:13:24,197 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-14 15:13:36,625 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-14 15:13:38,766 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-14 15:13:58,681 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-14 15:13:59,698 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-14 15:14:01,005 - TestBaseClass -INFO - *****comment saved *****
+2018-05-14 15:14:01,762 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-15 07:08:53,247 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 07:08:56,668 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 07:08:58,951 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 07:09:00,405 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 07:09:09,630 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-15 07:09:11,338 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-15 07:09:17,508 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-15 07:09:18,342 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-15 07:09:19,549 - TestBaseClass -INFO - *****comment saved *****
+2018-05-15 07:09:20,328 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-15 07:22:46,239 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 07:22:49,507 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 07:22:52,577 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 07:22:54,100 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 07:22:55,815 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-15 07:22:57,441 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-15 07:23:04,105 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-15 07:23:04,975 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-15 07:23:06,320 - TestBaseClass -INFO - *****comment saved *****
+2018-05-15 07:23:07,138 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-15 07:23:16,488 - TestBaseClass -INFO - ***** BeHO_TC_019 Test case completed, Browser closed*****
+2018-05-15 07:24:11,180 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 07:24:14,416 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 07:24:16,810 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 07:24:18,262 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 07:24:27,603 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-15 07:24:29,153 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-15 07:24:35,336 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-15 07:24:36,102 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-15 07:24:37,365 - TestBaseClass -INFO - *****comment saved *****
+2018-05-15 07:24:38,082 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-15 07:44:12,613 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 07:44:15,940 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 07:44:19,331 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 07:44:20,980 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 07:44:30,269 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-15 07:44:31,971 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-15 07:44:38,088 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-15 07:44:38,974 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-15 07:44:40,159 - TestBaseClass -INFO - *****comment saved *****
+2018-05-15 07:44:40,880 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-15 11:57:05,320 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 11:57:08,637 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 11:57:29,321 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 11:57:30,285 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 12:01:40,696 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 12:01:43,954 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 12:01:53,494 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 12:01:56,236 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 12:02:39,903 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-15 12:02:41,803 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-15 12:02:48,964 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-15 12:02:49,863 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-15 12:02:52,187 - TestBaseClass -INFO - *****comment saved *****
+2018-05-15 12:02:52,929 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-15 12:10:31,825 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 12:10:35,049 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 12:10:38,628 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 12:10:40,426 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 12:10:51,152 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-15 12:10:53,296 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-15 12:10:59,875 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-15 12:11:00,907 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-15 12:11:02,407 - TestBaseClass -INFO - *****comment saved *****
+2018-05-15 12:11:03,319 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-15 12:12:52,745 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 12:12:55,944 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 12:12:59,131 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 12:13:00,822 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 12:13:12,468 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-15 12:13:15,329 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-15 12:13:22,199 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-15 12:13:22,995 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-15 12:13:24,324 - TestBaseClass -INFO - *****comment saved *****
+2018-05-15 12:13:25,668 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-15 12:15:22,271 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 12:15:25,557 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 12:15:29,765 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 12:15:31,510 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 12:15:43,281 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-15 12:15:46,024 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-15 12:15:52,962 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-15 12:15:53,783 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-15 12:15:55,045 - TestBaseClass -INFO - *****comment saved *****
+2018-05-15 12:15:55,992 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-15 12:37:42,411 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 12:37:45,943 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 12:37:49,164 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 12:37:51,177 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 12:44:11,200 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 12:44:14,807 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 12:44:18,650 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 12:44:20,368 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 12:45:28,321 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 12:45:31,737 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 12:45:35,010 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 12:45:36,484 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 12:50:19,147 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 12:50:22,525 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 12:50:27,687 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 12:50:29,545 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 12:59:28,408 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 12:59:32,709 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 12:59:35,843 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 12:59:37,601 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 13:05:02,484 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 13:05:06,149 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 13:05:09,083 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 13:05:10,850 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 13:09:39,364 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 13:09:42,732 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 13:09:50,660 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 13:09:52,362 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 13:11:25,852 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 13:11:29,168 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 13:11:34,119 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 13:11:35,885 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 13:22:51,405 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 13:22:54,620 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 13:22:58,763 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 13:23:01,444 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 13:23:02,938 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-15 13:23:05,741 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-15 13:24:09,190 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 13:24:12,675 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 13:25:00,588 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 13:25:03,938 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 13:25:07,482 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 13:25:09,013 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 13:25:09,702 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-15 13:25:11,307 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-15 13:56:35,374 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 13:56:38,669 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 13:56:46,093 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 13:56:48,039 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-15 13:58:01,700 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-15 13:58:04,978 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-15 13:58:10,409 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-15 13:58:12,109 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-19 10:59:05,100 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-19 10:59:08,439 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-19 10:59:10,995 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-19 10:59:12,452 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-19 10:59:13,349 - TestBaseClass -INFO - *****entered purpose of use maintenance page*****
+2018-05-19 10:59:14,609 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-19 12:20:21,517 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-19 12:20:24,820 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-19 12:20:28,717 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-19 12:20:30,508 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-19 12:20:31,489 - TestBaseClass -INFO - *****entered override reason page*****
+2018-05-19 12:20:32,818 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-19 12:29:41,735 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-19 12:29:45,440 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-19 12:29:49,312 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-19 12:29:51,216 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-19 12:29:53,534 - TestBaseClass -INFO - *****entered override reason page*****
+2018-05-19 12:29:55,665 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-19 12:33:21,008 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-19 12:33:24,609 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-19 12:33:28,307 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-19 12:33:29,915 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-19 12:33:30,644 - TestBaseClass -INFO - *****entered override reason page*****
+2018-05-19 12:33:32,014 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-19 12:34:04,367 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-19 12:34:07,710 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-19 12:34:10,961 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-19 12:34:12,663 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-19 12:34:13,517 - TestBaseClass -INFO - *****entered override reason page*****
+2018-05-19 12:34:14,740 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-19 12:42:37,474 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-19 12:42:40,929 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-19 12:42:43,813 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-19 12:42:45,585 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-19 12:42:46,442 - TestBaseClass -INFO - *****entered override reason page*****
+2018-05-19 12:42:47,555 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-19 12:43:00,388 - TestBaseClass -INFO - ***** BeHO_TC_031 Test case completed, Browser closed*****
+2018-05-19 12:45:54,824 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-19 12:45:58,075 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-19 12:46:01,262 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-19 12:46:03,125 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-19 12:46:04,020 - TestBaseClass -INFO - *****entered override reason page*****
+2018-05-19 12:46:05,177 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-19 12:57:38,991 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-19 12:57:42,332 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-19 12:57:45,470 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-19 12:57:47,361 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-19 12:57:48,292 - TestBaseClass -INFO - *****entered Category code page*****
+2018-05-19 12:57:49,740 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-19 12:59:56,515 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-19 12:59:59,850 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-19 13:00:02,988 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-19 13:00:04,771 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-19 13:00:05,629 - TestBaseClass -INFO - *****entered Category code page*****
+2018-05-19 13:00:07,089 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-19 13:00:31,420 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-19 13:00:34,759 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-19 13:00:38,215 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-19 13:00:39,828 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-19 13:00:40,655 - TestBaseClass -INFO - *****entered Category code page*****
+2018-05-19 13:00:42,012 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-19 13:11:58,541 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-19 13:12:01,771 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-19 13:12:04,761 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-19 13:12:06,452 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-19 13:12:07,264 - TestBaseClass -INFO - *****entered Confidentiality code page*****
+2018-05-19 13:12:08,791 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-20 11:18:05,700 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 11:18:09,080 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 11:18:12,785 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 11:18:14,040 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 11:18:14,860 - TestBaseClass -INFO - *****entered Confidentiality code page*****
+2018-05-20 11:18:16,336 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-20 11:28:02,292 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 11:28:05,477 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 11:28:09,200 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 11:28:10,948 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 11:28:11,660 - TestBaseClass -INFO - *****entered Assigning authority type page*****
+2018-05-20 11:28:12,692 - TestBaseClass -INFO - *****value added in authority type table *****
+2018-05-20 11:29:51,339 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 11:29:54,606 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 11:29:58,157 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 11:29:59,695 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 11:30:00,476 - TestBaseClass -INFO - *****entered Assigning authority type page*****
+2018-05-20 11:30:01,556 - TestBaseClass -INFO - *****value added in authority type table *****
+2018-05-20 11:32:47,680 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 11:32:51,014 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 11:32:53,830 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 11:32:55,626 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 11:32:56,372 - TestBaseClass -INFO - *****entered Assigning authority type page*****
+2018-05-20 11:32:57,387 - TestBaseClass -INFO - *****value added in authority type table *****
+2018-05-20 11:50:40,147 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 11:50:43,582 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 11:50:50,260 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 11:50:52,054 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 11:50:53,964 - TestBaseClass -INFO - *****entered Assigning authority page*****
+2018-05-20 11:50:57,843 - TestBaseClass -INFO - *****value added in Assigning authority table *****
+2018-05-20 11:52:51,844 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 11:52:55,150 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 11:52:58,155 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 11:52:59,870 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 11:53:01,499 - TestBaseClass -INFO - *****entered Assigning authority page*****
+2018-05-20 11:53:05,317 - TestBaseClass -INFO - *****value added in Assigning authority table *****
+2018-05-20 11:56:48,734 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 11:56:52,398 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 11:56:55,745 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 11:56:57,600 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 11:56:59,391 - TestBaseClass -INFO - *****entered Assigning authority page*****
+2018-05-20 11:57:03,068 - TestBaseClass -INFO - *****value added in Assigning authority table *****
+2018-05-20 12:01:06,503 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:01:09,892 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:01:12,900 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:01:14,598 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:01:16,337 - TestBaseClass -INFO - *****entered Assigning authority page*****
+2018-05-20 12:01:20,080 - TestBaseClass -INFO - *****value added in Assigning authority table *****
+2018-05-20 12:15:45,938 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:15:49,427 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:15:53,178 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:15:54,908 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:15:55,784 - TestBaseClass -INFO - *****entered Clinical Metadata page*****
+2018-05-20 12:15:57,498 - TestBaseClass -INFO - *****value added in Assigning authority table *****
+2018-05-20 12:16:00,875 - TestBaseClass -INFO - ***** BeHO_TC_036 Test case completed, Browser closed*****
+2018-05-20 12:16:26,963 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:16:30,404 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:16:33,263 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:16:35,259 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:16:36,095 - TestBaseClass -INFO - *****entered Clinical Metadata page*****
+2018-05-20 12:16:37,554 - TestBaseClass -INFO - *****value added in Assigning authority table *****
+2018-05-20 12:18:58,636 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:19:01,877 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:19:04,671 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:19:06,150 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:19:06,906 - TestBaseClass -INFO - *****entered Clinical Metadata page*****
+2018-05-20 12:19:08,239 - TestBaseClass -INFO - *****value added in Assigning authority table *****
+2018-05-20 12:19:11,653 - TestBaseClass -INFO - ***** BeHO_TC_036 Test case completed, Browser closed*****
+2018-05-20 12:23:43,776 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,822 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,845 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,848 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,848 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,858 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,868 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,868 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,888 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,898 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,898 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,908 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,908 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,918 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,918 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,918 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,928 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,938 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,938 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:43,938 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:23:47,413 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:23:50,967 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:23:52,680 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:23:54,982 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:23:58,528 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:23:59,971 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:24:02,279 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:24:05,193 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:24:06,581 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:24:08,855 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:24:11,482 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:24:12,833 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:24:15,109 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:24:17,822 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:24:19,238 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:24:21,581 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:24:24,761 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:24:26,376 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:24:28,630 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:24:31,281 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:24:32,927 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:24:35,147 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:24:38,358 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:24:40,192 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:24:42,391 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:24:45,884 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:24:47,788 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:24:50,126 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:24:53,910 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:24:55,515 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:24:58,217 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:25:02,052 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:25:03,897 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:25:06,691 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:25:10,410 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:25:11,926 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:25:14,777 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:25:19,086 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:25:21,372 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:25:25,645 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:25:31,379 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:25:33,315 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:25:35,918 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:25:39,264 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:25:41,059 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:25:43,837 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:25:47,413 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:25:50,027 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:25:54,172 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:25:57,814 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:25:59,557 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:26:03,215 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:26:06,719 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:26:08,986 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:26:13,390 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:26:17,846 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:26:19,455 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:26:23,262 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:32:52,291 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:32:55,835 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:32:59,281 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:33:00,910 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:33:01,700 - TestBaseClass -INFO - *****entered Category code page*****
+2018-05-20 12:33:03,135 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-20 12:35:00,251 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,286 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,292 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,299 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,303 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,303 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,313 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,323 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,353 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,367 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,371 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,374 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,376 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,379 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,381 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,384 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,385 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,385 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,395 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:00,395 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:35:03,768 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:35:07,389 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:35:09,087 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:35:11,398 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:35:14,986 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:35:16,569 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:35:18,938 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:35:22,981 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:35:24,847 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:35:27,118 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:35:31,430 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:35:32,906 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:35:35,201 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:35:38,959 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:35:40,381 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:35:42,679 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:35:46,012 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:35:47,785 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:35:50,038 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:35:53,285 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:35:54,881 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:35:57,090 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:36:00,634 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:36:02,160 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:36:04,400 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:36:08,524 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:36:10,039 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:36:12,319 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:36:15,520 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:36:17,270 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:36:19,462 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:36:22,990 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:36:24,856 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:36:27,219 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:36:30,296 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:36:32,324 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:36:38,833 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:36:42,883 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:36:46,895 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:36:49,697 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:36:55,591 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:36:58,421 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:37:00,947 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:37:05,078 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:37:07,029 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:37:09,500 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:37:13,187 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:37:15,081 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:37:18,930 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:37:22,615 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:37:24,405 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:37:29,375 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:37:37,190 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:37:41,335 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:38:01,723 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:38:09,630 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:38:18,945 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:38:51,505 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:38:55,528 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:38:57,022 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:39:02,072 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:39:06,489 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:39:08,137 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:39:15,856 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:39:20,048 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:39:26,300 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:39:32,691 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:39:37,346 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:39:39,233 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:40:20,346 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:40:50,060 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:40:52,797 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:40:54,152 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-20 12:40:56,762 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-20 12:40:58,328 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-20 12:41:09,308 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-20 12:41:12,938 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-20 12:41:15,742 - TestBaseClass -INFO - *****comment saved *****
+2018-05-20 12:41:18,219 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-20 12:41:21,169 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-20 12:41:21,200 - TestBaseClass -INFO - ***** BeHO_TC_007 Test case completed, Browser closed*****
+2018-05-20 12:41:21,215 - TestBaseClass -INFO - ***** BeHO_TC_008 Test case completed, Browser closed*****
+2018-05-20 12:41:21,226 - TestBaseClass -INFO - ***** BeHO_TC_009 Test case completed, Browser closed*****
+2018-05-20 12:41:21,246 - TestBaseClass -INFO - ***** BeHO_TC_011 Test case completed, Browser closed*****
+2018-05-20 12:41:21,268 - TestBaseClass -INFO - ***** BeHO_TC_016 Test case completed, Browser closed*****
+2018-05-20 12:41:21,396 - TestBaseClass -INFO - ***** BeHO_TC_017 Test case completed, Browser closed*****
+2018-05-20 12:41:21,505 - TestBaseClass -INFO - ***** BeHO_TC_018 Test case completed, Browser closed*****
+2018-05-20 12:41:21,646 - TestBaseClass -INFO - ***** BeHO_TC_020 Test case completed, Browser closed*****
+2018-05-20 12:41:21,807 - TestBaseClass -INFO - ***** BeHO_TC_021 Test case completed, Browser closed*****
+2018-05-20 12:41:21,813 - TestBaseClass -INFO - ***** BeHO_TC_022 Test case completed, Browser closed*****
+2018-05-20 12:41:21,822 - TestBaseClass -INFO - ***** BeHO_TC_025 Test case completed, Browser closed*****
+2018-05-20 12:41:21,831 - TestBaseClass -INFO - ***** BeHO_TC_026 Test case completed, Browser closed*****
+2018-05-20 12:41:21,839 - TestBaseClass -INFO - ***** BeHO_TC_027 Test case completed, Browser closed*****
+2018-05-20 12:41:21,850 - TestBaseClass -INFO - ***** BeHO_TC_028 Test case completed, Browser closed*****
+2018-05-20 12:41:22,194 - TestBaseClass -INFO - ***** BeHO_TC_029 Test case completed, Browser closed*****
+2018-05-20 12:41:22,214 - TestBaseClass -INFO - ***** BeHO_TC_030 Test case completed, Browser closed*****
+2018-05-20 12:41:22,225 - TestBaseClass -INFO - ***** BeHO_TC_031 Test case completed, Browser closed*****
+2018-05-20 12:41:22,237 - TestBaseClass -INFO - ***** BeHO_TC_032 Test case completed, Browser closed*****
+2018-05-20 12:41:22,247 - TestBaseClass -INFO - ***** BeHO_TC_033 Test case completed, Browser closed*****
+2018-05-20 12:41:22,260 - TestBaseClass -INFO - ***** BeHO_TC_034 Test case completed, Browser closed*****
+2018-05-20 12:41:22,269 - TestBaseClass -INFO - ***** BeHO_TC_035 Test case completed, Browser closed*****
+2018-05-20 12:41:22,276 - TestBaseClass -INFO - ***** BeHO_TC_036 Test case completed, Browser closed*****
+2018-05-20 12:55:42,017 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:55:42,048 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:55:42,058 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:55:45,618 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:55:48,549 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:55:50,144 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:55:52,447 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:56:34,260 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:56:34,290 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:56:34,410 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:56:37,748 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:56:41,172 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:56:42,751 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:56:45,056 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:56:48,328 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:56:49,747 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:56:52,068 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:56:55,261 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:56:56,613 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:56:57,327 - TestBaseClass -INFO - *****entered Assigning authority type page*****
+2018-05-20 12:56:58,427 - TestBaseClass -INFO - *****value added in authority type table *****
+2018-05-20 12:57:01,801 - TestBaseClass -INFO - ***** BeHO_TC_034 Test case completed, Browser closed*****
+2018-05-20 12:57:01,821 - TestBaseClass -INFO - ***** BeHO_TC_035 Test case completed, Browser closed*****
+2018-05-20 12:57:01,822 - TestBaseClass -INFO - ***** BeHO_TC_036 Test case completed, Browser closed*****
+2018-05-20 12:59:08,386 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:59:08,416 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:59:08,566 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-20 12:59:11,928 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:59:15,024 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:59:16,585 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:59:18,892 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:59:22,813 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:59:24,639 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:59:26,982 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-20 12:59:30,311 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-20 12:59:31,763 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-20 12:59:32,524 - TestBaseClass -INFO - *****entered Assigning authority type page*****
+2018-05-20 12:59:33,531 - TestBaseClass -INFO - *****value added in authority type table *****
+2018-05-20 12:59:36,789 - TestBaseClass -INFO - ***** BeHO_TC_034 Test case completed, Browser closed*****
+2018-05-20 12:59:36,809 - TestBaseClass -INFO - ***** BeHO_TC_035 Test case completed, Browser closed*****
+2018-05-20 12:59:36,829 - TestBaseClass -INFO - ***** BeHO_TC_036 Test case completed, Browser closed*****
+2018-05-21 10:05:11,648 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:05:11,709 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:05:11,717 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:05:15,257 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 10:05:18,382 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 10:05:20,092 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 10:05:22,248 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 10:05:24,842 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 10:05:26,140 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 10:05:28,327 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 10:05:31,926 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 10:05:33,336 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 10:05:34,093 - TestBaseClass -INFO - *****entered Assigning authority type page*****
+2018-05-21 10:05:35,050 - TestBaseClass -INFO - *****value added in authority type table *****
+2018-05-21 10:05:38,326 - TestBaseClass -INFO - ***** BeHO_TC_034 Test case completed, Browser closed*****
+2018-05-21 10:05:38,342 - TestBaseClass -INFO - ***** BeHO_TC_035 Test case completed, Browser closed*****
+2018-05-21 10:05:38,360 - TestBaseClass -INFO - ***** BeHO_TC_036 Test case completed, Browser closed*****
+2018-05-21 10:14:42,486 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:14:42,538 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:14:42,550 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:14:45,906 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 10:14:48,996 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 10:14:50,856 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 10:14:50,857 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 10:18:09,688 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:18:09,748 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:18:09,776 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:18:13,274 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 10:18:16,105 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 10:18:17,832 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 10:18:18,096 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 10:18:19,200 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 10:18:19,498 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 10:18:20,650 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 10:18:21,558 - TestBaseClass -INFO - *****entered Assigning authority type page*****
+2018-05-21 10:18:22,801 - TestBaseClass -INFO - *****value added in authority type table *****
+2018-05-21 10:18:26,245 - TestBaseClass -INFO - ***** BeHO_TC_034 Test case completed, Browser closed*****
+2018-05-21 10:18:26,261 - TestBaseClass -INFO - ***** BeHO_TC_035 Test case completed, Browser closed*****
+2018-05-21 10:18:26,271 - TestBaseClass -INFO - ***** BeHO_TC_036 Test case completed, Browser closed*****
+2018-05-21 10:20:14,410 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:20:14,445 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:20:14,450 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:20:17,776 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 10:20:20,311 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 10:31:48,442 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:31:48,483 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:31:48,493 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:31:52,357 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 10:31:56,947 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 10:32:00,522 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 10:32:03,369 - TestBaseClass -INFO - *****entered Assigning authority type page*****
+2018-05-21 10:32:05,599 - TestBaseClass -INFO - *****value added in authority type table *****
+2018-05-21 10:32:09,635 - TestBaseClass -INFO - ***** BeHO_TC_034 Test case completed, Browser closed*****
+2018-05-21 10:33:04,199 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:33:04,229 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:33:04,239 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 10:33:07,768 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 10:33:11,182 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 10:33:13,121 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 10:33:13,948 - TestBaseClass -INFO - *****entered Assigning authority type page*****
+2018-05-21 10:33:15,093 - TestBaseClass -INFO - *****value added in authority type table *****
+2018-05-21 10:33:18,490 - TestBaseClass -INFO - ***** BeHO_TC_034 Test case completed, Browser closed*****
+2018-05-21 11:17:15,144 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 11:17:15,184 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 11:17:15,184 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 11:17:18,468 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 11:17:22,182 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 11:17:23,809 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 11:17:24,551 - TestBaseClass -INFO - *****entered Assigning authority type page*****
+2018-05-21 11:17:25,513 - TestBaseClass -INFO - *****value added in authority type table *****
+2018-05-21 11:17:28,805 - TestBaseClass -INFO - ***** BeHO_TC_034 Test case completed, Browser closed*****
+2018-05-21 12:14:36,336 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 12:14:36,377 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 12:14:36,377 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 12:14:39,572 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 12:14:43,114 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 12:14:44,918 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 12:14:45,627 - TestBaseClass -INFO - *****entered Assigning authority type page*****
+2018-05-21 12:14:46,701 - TestBaseClass -INFO - *****value added in authority type table *****
+2018-05-21 12:14:49,959 - TestBaseClass -INFO - ***** BeHO_TC_034 Test case completed, Browser closed*****
+2018-05-21 12:15:23,152 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 12:15:23,194 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 12:15:23,194 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 12:15:26,510 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 12:15:29,569 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 12:15:31,228 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 12:15:31,909 - TestBaseClass -INFO - *****entered Assigning authority type page*****
+2018-05-21 12:15:32,938 - TestBaseClass -INFO - *****value added in authority type table *****
+2018-05-21 12:15:36,257 - TestBaseClass -INFO - ***** BeHO_TC_034 Test case completed, Browser closed*****
+2018-05-21 12:15:38,494 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 12:15:41,797 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 12:15:43,480 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 12:15:45,401 - TestBaseClass -INFO - *****entered Assigning authority page*****
+2018-05-21 12:15:49,154 - TestBaseClass -INFO - *****value added in Assigning authority table *****
+2018-05-21 12:15:53,391 - TestBaseClass -INFO - ***** BeHO_TC_035 Test case completed, Browser closed*****
+2018-05-21 12:15:55,625 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 12:15:58,767 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 12:16:00,315 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 12:16:01,012 - TestBaseClass -INFO - *****entered Clinical Metadata page*****
+2018-05-21 12:16:02,242 - TestBaseClass -INFO - *****value added in Assigning authority table *****
+2018-05-21 12:16:05,699 - TestBaseClass -INFO - ***** BeHO_TC_036 Test case completed, Browser closed*****
+2018-05-21 12:27:37,557 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 12:27:40,746 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 12:27:43,663 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 12:27:45,094 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 12:27:46,082 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-21 12:27:47,546 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-21 12:27:48,622 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-21 12:27:53,694 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-21 12:27:54,643 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-21 12:27:55,846 - TestBaseClass -INFO - *****comment saved *****
+2018-05-21 12:27:56,497 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-21 12:34:21,775 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 12:34:24,937 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 12:34:28,046 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 12:34:29,560 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 12:34:30,249 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-21 12:34:31,951 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-21 12:34:33,094 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-21 12:34:38,747 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-21 12:34:39,634 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-21 12:34:40,850 - TestBaseClass -INFO - *****comment saved *****
+2018-05-21 12:34:41,589 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-21 12:34:41,711 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-21 12:36:04,235 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 12:36:07,455 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 12:36:10,921 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 12:36:12,440 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 12:36:13,092 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-21 12:36:14,719 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-21 12:36:15,890 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-21 12:36:21,036 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-21 12:36:21,976 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-21 12:36:23,122 - TestBaseClass -INFO - *****comment saved *****
+2018-05-21 12:36:23,753 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-21 12:36:23,891 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-21 12:49:12,015 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 12:49:15,431 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 12:49:18,321 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 12:49:20,249 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 12:49:37,093 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-21 12:49:39,664 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-21 12:49:41,653 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-21 12:49:43,772 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-21 12:49:48,090 - TestBaseClass -INFO - *****organization has been added*****
+2018-05-21 13:05:26,399 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,589 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,601 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,611 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,621 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,633 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,655 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,665 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,727 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,735 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,741 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,745 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,753 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,757 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,761 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,765 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,772 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,777 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,790 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:26,801 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:05:30,782 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:05:35,266 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:05:37,628 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:05:38,517 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-21 13:05:40,408 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-21 13:05:41,711 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-21 13:05:48,460 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-21 13:05:49,631 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-21 13:05:50,907 - TestBaseClass -INFO - *****comment saved *****
+2018-05-21 13:05:51,686 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-21 13:05:51,853 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-21 13:05:53,826 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-21 13:05:56,068 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:05:59,317 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:06:02,070 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:06:03,006 - TestBaseClass -INFO - *****entered purpose of use maintenance page*****
+2018-05-21 13:06:04,196 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-21 13:06:07,508 - TestBaseClass -INFO - ***** BeHO_TC_006 Test case completed, Browser closed*****
+2018-05-21 13:06:09,768 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:06:13,275 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:06:15,324 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:06:16,746 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-21 13:06:18,390 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-21 13:06:19,526 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-21 13:06:25,637 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-21 13:06:26,654 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-21 13:06:28,157 - TestBaseClass -INFO - *****comment saved *****
+2018-05-21 13:06:28,209 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-21 13:06:28,838 - TestBaseClass -INFO - ***** deny all policy created and activated *****
+2018-05-21 13:06:32,634 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-21 13:06:34,650 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-21 13:06:35,837 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-21 13:06:40,847 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-21 13:06:41,679 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-21 13:06:42,448 - TestBaseClass -INFO - *****comment saved *****
+2018-05-21 13:06:43,119 - TestBaseClass -INFO - ***** BeHO_TC_007 Test case completed, Browser closed*****
+2018-05-21 13:06:45,383 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:06:48,541 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:06:50,160 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:06:50,925 - TestBaseClass -INFO - *****entered security alerts search page*****
+2018-05-21 13:06:55,205 - TestBaseClass -INFO - *****clicked search button*****
+2018-05-21 13:06:59,733 - TestBaseClass -INFO - *****Rows & Cols Count *****
+2018-05-21 13:07:00,406 - TestBaseClass -INFO - ***** BeHO_TC_008 Test case completed, Browser closed*****
+2018-05-21 13:07:02,644 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:07:05,394 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:07:06,903 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:07:07,806 - TestBaseClass -INFO - *****entered security alerts search page*****
+2018-05-21 13:07:12,053 - TestBaseClass -INFO - *****clicked search button*****
+2018-05-21 13:07:14,069 - TestBaseClass -INFO - *****message id checked*****
+2018-05-21 13:07:16,735 - TestBaseClass -INFO - *****clicked acknowledged button*****
+2018-05-21 13:07:21,685 - TestBaseClass -INFO - *****clicked back button*****
+2018-05-21 13:07:22,303 - TestBaseClass -INFO - ***** BeHO_TC_009 Test case completed, Browser closed*****
+2018-05-21 13:07:24,577 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:07:28,456 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:07:30,220 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:07:35,023 - TestBaseClass -INFO - *****entered Policy Reports page*****
+2018-05-21 13:07:41,653 - TestBaseClass -INFO - *****added patient button*****
+2018-05-21 13:07:43,588 - TestBaseClass -INFO - ***** BeHO_TC_011 Test case completed, Browser closed*****
+2018-05-21 13:07:45,874 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:07:48,744 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:07:49,948 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:07:51,144 - TestBaseClass -INFO - *****entered Policy Reports page*****
+2018-05-21 13:07:53,673 - TestBaseClass -INFO - *****added patient button*****
+2018-05-21 13:07:55,108 - TestBaseClass -INFO - ***** BeHO_TC_016 Test case completed, Browser closed*****
+2018-05-21 13:07:57,390 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:08:00,294 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:08:01,678 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:08:02,485 - TestBaseClass -INFO - *****entered Audit Reports page*****
+2018-05-21 13:08:06,979 - TestBaseClass -INFO - ***** BeHO_TC_017 Test case completed, Browser closed*****
+2018-05-21 13:08:09,279 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:08:12,770 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:08:14,247 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:08:14,778 - TestBaseClass -INFO - *****entered session management page *****
+2018-05-21 13:08:15,125 - TestBaseClass -INFO - *****clear error messages button clicked *****
+2018-05-21 13:08:15,809 - TestBaseClass -INFO - ***** BeHO_TC_018 Test case completed, Browser closed*****
+2018-05-21 13:09:32,254 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,276 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,286 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,296 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,296 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,306 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,326 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,326 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,356 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,356 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,356 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,366 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,366 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,366 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,377 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,379 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,379 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,379 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,379 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:32,389 - TestBaseClass -INFO - *****parent class constructor called and properties file initiated*****
+2018-05-21 13:09:35,785 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:09:39,757 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:09:41,268 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:09:41,951 - TestBaseClass -INFO - *****Consent menu clicked*****
+2018-05-21 13:09:43,737 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-21 13:09:44,806 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-21 13:09:51,648 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-21 13:09:52,523 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-21 13:09:53,752 - TestBaseClass -INFO - *****comment saved *****
+2018-05-21 13:09:54,422 - TestBaseClass -INFO - ***** policy activated *****
+2018-05-21 13:09:54,556 - TestBaseClass -INFO - clicked on revoke btn
+2018-05-21 13:09:56,586 - TestBaseClass -INFO - ***** BeHO_TC_001 Test case completed, Browser closed*****
+2018-05-21 13:09:58,864 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:10:01,828 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:10:03,196 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:10:04,905 - TestBaseClass -INFO - *****entered purpose of use maintenance page*****
+2018-05-21 13:10:08,630 - TestBaseClass -INFO - *****value added in purpose of use table *****
+2018-05-21 13:10:12,106 - TestBaseClass -INFO - ***** BeHO_TC_006 Test case completed, Browser closed*****
+2018-05-21 13:10:14,374 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:10:18,300 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:10:19,683 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:10:20,314 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-21 13:10:22,023 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-21 13:10:23,117 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-21 13:10:28,114 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-21 13:10:28,961 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-21 13:10:30,226 - TestBaseClass -INFO - *****comment saved *****
+2018-05-21 13:10:30,278 - TestBaseClass -INFO - *****read the text of dialog box*****
+2018-05-21 13:10:30,976 - TestBaseClass -INFO - ***** deny all policy created and activated *****
+2018-05-21 13:10:34,655 - TestBaseClass -INFO - *****Management page clicked*****
+2018-05-21 13:10:36,148 - TestBaseClass -INFO - *****patient search is done*****
+2018-05-21 13:10:37,349 - TestBaseClass -INFO - *****entering patient policy details *****
+2018-05-21 13:10:42,840 - TestBaseClass -INFO - *****provider has been added*****
+2018-05-21 13:10:44,200 - TestBaseClass -INFO - *****saved button clicked*****
+2018-05-21 13:10:45,874 - TestBaseClass -INFO - *****comment saved *****
+2018-05-21 13:10:46,517 - TestBaseClass -INFO - ***** BeHO_TC_007 Test case completed, Browser closed*****
+2018-05-21 13:10:48,777 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:10:53,734 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:10:55,193 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:10:55,838 - TestBaseClass -INFO - *****entered security alerts search page*****
+2018-05-21 13:10:59,624 - TestBaseClass -INFO - *****clicked search button*****
+2018-05-21 13:11:04,129 - TestBaseClass -INFO - *****Rows & Cols Count *****
+2018-05-21 13:11:04,960 - TestBaseClass -INFO - ***** BeHO_TC_008 Test case completed, Browser closed*****
+2018-05-21 13:11:07,234 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:11:10,517 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:11:12,059 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:11:12,663 - TestBaseClass -INFO - *****entered security alerts search page*****
+2018-05-21 13:11:16,066 - TestBaseClass -INFO - *****clicked search button*****
+2018-05-21 13:11:16,807 - TestBaseClass -INFO - *****message id checked*****
+2018-05-21 13:11:17,525 - TestBaseClass -INFO - *****clicked acknowledged button*****
+2018-05-21 13:11:21,002 - TestBaseClass -INFO - *****clicked back button*****
+2018-05-21 13:11:21,614 - TestBaseClass -INFO - ***** BeHO_TC_009 Test case completed, Browser closed*****
+2018-05-21 13:11:23,869 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:11:28,061 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:11:29,436 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:11:31,054 - TestBaseClass -INFO - *****entered Policy Reports page*****
+2018-05-21 13:11:33,732 - TestBaseClass -INFO - *****added patient button*****
+2018-05-21 13:11:35,433 - TestBaseClass -INFO - ***** BeHO_TC_011 Test case completed, Browser closed*****
+2018-05-21 13:11:37,663 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:11:40,717 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:11:42,636 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:11:43,919 - TestBaseClass -INFO - *****entered Policy Reports page*****
+2018-05-21 13:11:46,838 - TestBaseClass -INFO - *****added patient button*****
+2018-05-21 13:11:48,379 - TestBaseClass -INFO - ***** BeHO_TC_016 Test case completed, Browser closed*****
+2018-05-21 13:11:50,650 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:11:54,656 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:11:56,342 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:11:57,330 - TestBaseClass -INFO - *****entered Audit Reports page*****
+2018-05-21 13:12:02,490 - TestBaseClass -INFO - ***** BeHO_TC_017 Test case completed, Browser closed*****
+2018-05-21 13:12:04,779 - TestBaseClass -INFO - *****Initializing chrome browser*****
+2018-05-21 13:12:07,900 - TestBaseClass -INFO - *****browser is successfully initialised*****
+2018-05-21 13:12:09,560 - TestBaseClass -INFO - *****login is successfully done*****
+2018-05-21 13:12:10,088 - TestBaseClass -INFO - *****entered session management page *****
+2018-05-21 13:12:10,426 - TestBaseClass -INFO - *****clear error messages button clicked *****
+2018-05-21 13:12:11,054 - TestBaseClass -INFO - ***** BeHO_TC_018 Test case completed, Browser closed*****

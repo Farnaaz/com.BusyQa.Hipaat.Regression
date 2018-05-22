@@ -5,11 +5,7 @@ package com.BusyQa.Hipaat.TestCases;
 
 
 import org.openqa.selenium.By;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
-
+import org.testng.annotations.*;
 import com.BusyQa.Hipaat.PageObjects.Loginpage;
 import com.BusyQa.Hipaat.PageObjects.Menupage;
 import com.BusyQa.Hipaat.PageObjects.SecurityAlertDetailpage;
@@ -46,7 +42,7 @@ public class BeHO_TC_009 extends TestBaseClass{
 		log.info("*****parent class constructor called and properties file initiated*****");
 	}
 
-	@BeforeTest
+	@BeforeMethod
 	public void setUp() {
 
 		browserinitialization(); 

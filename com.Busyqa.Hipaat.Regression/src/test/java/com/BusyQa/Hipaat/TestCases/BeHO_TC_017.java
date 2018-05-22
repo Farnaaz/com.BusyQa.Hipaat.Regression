@@ -5,12 +5,7 @@ package com.BusyQa.Hipaat.TestCases;
 
 import java.io.File;
 
-import org.testng.Assert;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
-
+import org.testng.annotations.*;
 import com.BusyQa.Hipaat.PageObjects.AuditReportpage;
 import com.BusyQa.Hipaat.PageObjects.Loginpage;
 import com.BusyQa.Hipaat.PageObjects.Menupage;
@@ -43,7 +38,7 @@ public class BeHO_TC_017 extends TestBaseClass {
 		log.info("*****parent class constructor called and properties file initiated*****");
 	}
 
-	@BeforeTest
+	@BeforeMethod
 	public void setUp() {
 
 		browserinitialization(); 
@@ -74,7 +69,7 @@ public class BeHO_TC_017 extends TestBaseClass {
 			//AC01: No Error Message generated
 			boolean error =  driver.getPageSource().contains("error");
 			//System.out.println(error);
-			Assert.assertFalse(error);
+			softAssert.assertFalse(error);
 
 
 			ar.generateReportbtn();

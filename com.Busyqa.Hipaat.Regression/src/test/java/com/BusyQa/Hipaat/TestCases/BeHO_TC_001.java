@@ -4,10 +4,8 @@
 package com.BusyQa.Hipaat.TestCases;
 
 import org.openqa.selenium.By;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
+
+import org.testng.annotations.*;
 
 import com.BusyQa.Hipaat.PageObjects.Loginpage;
 import com.BusyQa.Hipaat.PageObjects.Menupage;
@@ -46,7 +44,7 @@ public class BeHO_TC_001 extends TestBaseClass {
 		log.info("*****parent class constructor called and properties file initiated*****");
 	}
 
-	@BeforeTest
+	@BeforeMethod
 	public void setUp() {
 
 
@@ -83,7 +81,7 @@ public class BeHO_TC_001 extends TestBaseClass {
 			log.info("*****entering patient policy details *****");
 			ppdetail = new PatientPolicyDetailpage();
 			ppdetail.executefirst_Yes();
-			ppdetail.startdate("2018-06-21");
+			ppdetail.startdate();
 			ppdetail.validUntil_revoked();
 			ppdetail.policyTitle("This is a deny policy");
 			ppdetail.requestedby_Patient();
@@ -125,7 +123,19 @@ public class BeHO_TC_001 extends TestBaseClass {
 			ppdetail.activatebtn();
 			log.info("***** policy activated *****");
 
-		}
+			//deleting the policy created
+			ppdetail.revokebtn();                                                             
+			log.info("clicked on revoke btn");                                                
+			ppdetail.revokecontinuebtn();                                                     
+
+			String revoke_message = driver.findElement(By.id("infoMessagesDialog")).getText();
+			System.out.println(revoke_message); 
+			ppdetail.ClickBackbtn();
+			//verify if policy deleted
+			String pageSource = driver.getPageSource();
+			softAssert.assertFalse(pageSource.contains("This is a deny policy"));
+			
+			 }
 
 		catch(Exception ex)
 		{
@@ -135,39 +145,9 @@ public class BeHO_TC_001 extends TestBaseClass {
 		
 		softAssert.assertAll();
 
-		
-		
 	}
 
-	/*//code for revoking created policy
-	@Test (dependsOnMethods = {"policycreation"})                                                            
-	public void deletepolicycreation() {                                                  
-
-
-		menu = new Menupage();                                                            
-		menu.clickConsentmenu();                                                          
-		menu.clickManagement();                                                           
-		psearch= new PatientSearchpage() ;                                                
-		psearch.InternalID();                                                             
-		psearch.pID("BQ0001");                                                            
-		psearch.clickonSearchbtn();                                                       
-		psearch.clickonSearchresult();                                                    
-		ppolicies = new PatientPoliciespage();	                                          
-		ppolicies.clickonactiveList();                                                    
-		ppolicies.clickAsofDate("2018-06-21");                                            
-		ppolicies.clickonSearchbtn();                                                     
-		ppolicies.clickonPolicyTitle();                                                   
-		ppdetail = new PatientPolicyDetailpage();                                         
-		ppdetail.revokebtn();                                                             
-		log.info("clicked on revoke btn");                                                
-		ppdetail.revokecontinuebtn();                                                     
-
-		String revoke_message = driver.findElement(By.id("infoMessagesDialog")).getText();
-		System.out.println(revoke_message);                                               
-	}		                                                                              
-
-*/
-
+	
 	@AfterMethod
 	public void tearDown() {
 
@@ -175,7 +155,7 @@ public class BeHO_TC_001 extends TestBaseClass {
 		log.info("***** BeHO_TC_001 Test case completed, Browser closed*****");
 	}
 
-	
+
 }
 
 

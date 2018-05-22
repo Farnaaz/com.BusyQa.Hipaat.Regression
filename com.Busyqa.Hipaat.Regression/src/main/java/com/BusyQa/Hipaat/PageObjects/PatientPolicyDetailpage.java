@@ -3,6 +3,8 @@
  */
 package com.BusyQa.Hipaat.PageObjects;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.List;
 
 import org.openqa.selenium.WebElement;
@@ -19,10 +21,13 @@ import com.BusyQa.Hipaat.TestBase.TestBaseClass;
 public class PatientPolicyDetailpage extends TestBaseClass {
 
 
+	@FindBy(xpath="//span[contains (@class, 'ui-button-text')] [contains(text(), 'No')]")
+	@CacheLookup
+	WebElement execute_first_Nobtn;
 
 	@FindBy(xpath="//span[contains (@class, 'ui-button-text')] [contains(text(), 'Yes')]")
 	@CacheLookup
-	WebElement Yesbtn;
+	WebElement execute_first_Yesbtn;
 
 	@FindBy(id="detail:startDate1")
 	@CacheLookup
@@ -118,22 +123,27 @@ public class PatientPolicyDetailpage extends TestBaseClass {
 	@FindBy(id="detail:j_id_8i")
 	@CacheLookup
 	WebElement revokebtn;
-	
+
 	@FindBy(id="revoke-comment-btn-continue")
 	@CacheLookup
 	WebElement revokebtn_continue;
-	
+
 	@FindBy(xpath="//button[@id='revoke-comment-btn-cancel']/span")
 	@CacheLookup
 	WebElement cancel;
+
+	@FindBy(id="detail:j_id_8t")
+	@CacheLookup
+	WebElement Backbtn;
+
 	
 	@FindBy(xpath="//div//span [contains(@class, 'ui-accordion-header-icon ui-icon ui-icon-triangle-1-e')]")
 	@CacheLookup
 	WebElement triangle;
-	
-		
 
-	
+
+
+
 
 	public PatientPolicyDetailpage() {
 
@@ -141,15 +151,26 @@ public class PatientPolicyDetailpage extends TestBaseClass {
 	}
 
 
+	public void executefirst_No(){
+		execute_first_Nobtn.click();
+	}
+
 	public void executefirst_Yes(){
-		Yesbtn.click();
+		execute_first_Yesbtn.click();
 	}
 
-	public void startdate(String date){
+
+	public void startdate(){
+
 		sdate.clear();
-		sdate.sendKeys(date);
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+		String todaysdate = sdf.format(new Date());
+		sdate.sendKeys(todaysdate);
 
 	}
+
+
+
 
 
 	public void validUntil_revoked(){
@@ -225,6 +246,10 @@ public class PatientPolicyDetailpage extends TestBaseClass {
 	public void savebtn() {
 		savebtn.click();
 	}
+	
+	public void ClickBackbtn() {
+		Backbtn.click();
+	}
 
 	public void entersavecomment(String comment) {
 
@@ -263,7 +288,7 @@ public class PatientPolicyDetailpage extends TestBaseClass {
 		revokebtn_continue.click();
 	}
 
-	
+
 	public void cancelbtn() {
 
 

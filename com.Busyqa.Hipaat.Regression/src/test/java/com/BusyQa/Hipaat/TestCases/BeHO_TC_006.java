@@ -5,9 +5,7 @@ import java.util.List;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 
 import com.BusyQa.Hipaat.PageObjects.Loginpage;
 import com.BusyQa.Hipaat.PageObjects.Menupage;
@@ -43,7 +41,7 @@ public class BeHO_TC_006 extends TestBaseClass{
 		log.info("*****parent class constructor called and properties file initiated*****");
 	}
 
-	@BeforeTest
+	@BeforeMethod
 	public void setUp() {
 
 		browserinitialization(); 
@@ -83,12 +81,16 @@ public class BeHO_TC_006 extends TestBaseClass{
 			System.out.println("Number of rows after adding the value is:::" + new_row_count.size());
 
 			
-			String new_added_value = "TEST123";
+			String pageSource = driver.getPageSource();
+			softAssert.assertTrue(pageSource.contains("TEST123"));
+			
+			/*String new_added_value = "TEST123";
 			for (int i=0; i<new_row_count.size(); i++)	{
 				if(new_row_count.get(i).getText().equals(new_added_value)){
+					
 					System.out.println("TEST123 Successfully Added");
 				} 
-			}
+			}*/
 	
 			Thread.sleep(2000);
 		

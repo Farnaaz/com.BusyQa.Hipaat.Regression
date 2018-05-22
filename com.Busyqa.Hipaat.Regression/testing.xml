@@ -10,6 +10,7 @@
 	<test name="Regression tests">
 		
 		<classes>
+			
 			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_001"></class>
 			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_006"></class>
 			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_007"></class>
@@ -25,6 +26,24 @@
 			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_020"></class>
 			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_021"></class>
 			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_022"></class>
+			
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_025"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_026"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_027"></class>
+			
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_028"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_029"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_030"></class>
+			
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_031"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_032"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_033"></class>
+			
+			
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_034"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_035"></class>
+			<class name="com.BusyQa.Hipaat.TestCases.BeHO_TC_036"></class> 			
+
 			
 			
 

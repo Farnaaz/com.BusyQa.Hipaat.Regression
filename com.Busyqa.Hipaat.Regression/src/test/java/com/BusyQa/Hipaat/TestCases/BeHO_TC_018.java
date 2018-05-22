@@ -3,11 +3,8 @@
  */
 package com.BusyQa.Hipaat.TestCases;
 
-import org.testng.Assert;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
+
+import org.testng.annotations.*;
 
 import com.BusyQa.Hipaat.PageObjects.Loginpage;
 import com.BusyQa.Hipaat.PageObjects.Menupage;
@@ -39,7 +36,7 @@ public class BeHO_TC_018 extends TestBaseClass {
 		super();
 	}
 
-	@BeforeTest
+	@BeforeMethod
 	public void setUp() {
 
 
@@ -67,30 +64,30 @@ public class BeHO_TC_018 extends TestBaseClass {
 			//AC01: No Error Message generated
 			boolean error =  driver.getPageSource().contains("error");
 			//System.out.println(error);
-			Assert.assertFalse(error);
+			softAssert.assertFalse(error);
 		}
 
 		catch(Exception ex)
 		{
 			System.out.println(ex.getMessage());
 		}
-		
-		
+
+
 		softAssert.assertAll();
 
-		
-		
+
+
 	}
 
 
 	@AfterMethod
-			public void tearDown() {
+	public void tearDown() {
 
-				driver.quit();
-				log.info("***** BeHO_TC_018 Test case completed, Browser closed*****");
-			}
+		driver.quit();
+		log.info("***** BeHO_TC_018 Test case completed, Browser closed*****");
+	}
 
 
 
-		}
+}
 
